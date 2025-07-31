@@ -1,0 +1,10 @@
+bleak==0.22.3
+gradio==5.31.0
+opencv-python==4.11.0.86
+scipy==1.15.3
+supervision==0.25.1
+torch==2.7.0
+torchvision==0.22.0
+ultralytics==8.3.144
+uvicorn==0.34.2
+websockets==15.0.1

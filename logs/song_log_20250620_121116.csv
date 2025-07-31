@@ -1,0 +1,15 @@
+Timestamp,Expected,Detected,Match
+12:11:34,c,c,Yes
+12:11:36,c,d,No
+12:11:37,g,d,No
+12:11:38,g,d,No
+12:11:39,a,c,No
+12:11:40,a,c,No
+12:11:42,g,c,No
+12:11:51,f,g,No
+12:11:58,f,a,No
+12:12:01,e,a,No
+12:12:05,e,a,No
+12:12:06,d,a,No
+12:12:09,d,c,No
+12:12:10,c,c,Yes

@@ -1,0 +1,8 @@
+dbus-python==1.4.0
+lgpio==0.2.2.0
+pycairo==1.28.0
+PyGObject==3.42.2
+rpi-lgpio==0.6
+ruamel.yaml==0.18.11
+ruamel.yaml.clib==0.2.12
+smbus==1.1.post2
